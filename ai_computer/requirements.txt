@@ -1,8 +1,0 @@
-pydantic
-numpy
-transformers
-ell
-openai
-asyncio
-scikit-learn
-torch

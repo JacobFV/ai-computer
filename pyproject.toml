@@ -15,6 +15,11 @@ openai = "^1.47.1"
 anthropic = "^0.34.2"
 typer = "^0.12.5"
 networkx = "^3.3"
+numpy = "^2.1.1"
+transformers = "^4.44.2"
+asyncio = "^3.4.3"
+scikit-learn = "^1.5.2"
+torch = "^2.4.1"
 
 
 [build-system]
