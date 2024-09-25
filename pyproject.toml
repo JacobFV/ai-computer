@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "ai-computer"
+version = "0.1.0"
+description = ""
+authors = ["Jacob Valdez <jacobfv123@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pydantic = "^2.9.2"
+sqlmodel = ">=0.0.21,<0.0.22"
+fastapi = ">=0.111.1,<0.112.0"
+ell-ai = "^0.0.10"
+openai = "^1.47.1"
+anthropic = "^0.34.2"
+typer = "^0.12.5"
+networkx = "^3.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
